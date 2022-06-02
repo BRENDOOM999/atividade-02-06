@@ -1,5 +1,5 @@
 const scanf = require('scanf');
-
+21
 const math = require('./math');
 
 const operacoes = ['','+','-','*', '/'];
